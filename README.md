@@ -41,7 +41,7 @@ These results describe only the included synthetic dataset. They are not evidenc
 ```text
 .
 ├── app.py                         # Streamlit dashboard
-├── data/gamepulse_players.csv     # Deterministic synthetic dataset
+├── data/gamepulse_players.csv.gz  # Compressed deterministic synthetic dataset
 ├── scripts/generate_data.py       # Dataset generator
 ├── src/
 │   ├── analytics.py               # Segments, actions, and filters

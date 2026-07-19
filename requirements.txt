@@ -1,0 +1,8 @@
+streamlit==1.42.2
+pandas==2.2.3
+numpy==2.2.3
+scikit-learn==1.6.1
+altair==5.5.0
+joblib==1.4.2
+# Streamlit 1.42's Altair reruns are stable with this Arrow release.
+pyarrow==19.0.1
